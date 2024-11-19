@@ -19,7 +19,7 @@ long int rpass=123,hpass=0,tpass=0,thpass=0,gpass=0,ghpass=0;
 char command[15];
 int count=10,choice;
 
-//function declation
+//function declaration
 void bo(int x1, int y1,int x2,int y2);
 void lin(int x1, int y1, int x2);
 void pa(void);
